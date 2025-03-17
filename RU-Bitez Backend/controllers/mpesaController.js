@@ -47,7 +47,7 @@ export const initiateSTKPush = async (req, res) => {
       PartyA: phoneNumber,
       PartyB: shortcode,
       PhoneNumber: phoneNumber,
-      CallBackURL: "https://1a90-41-90-172-31.ngrok-free.app/api/mpesa/callback",
+      CallBackURL: "https://00a2-2c0f-fe38-2212-7f63-32fa-6a6a-e566-734c.ngrok-free.app/api/mpesa/callback",
       AccountReference: "RU-Bitez",
       TransactionDesc: "RUBitez Order Payment",
     };
